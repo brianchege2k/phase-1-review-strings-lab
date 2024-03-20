@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2024-03-20T06:27:07.031Z",
-    "end": "2024-03-20T06:27:07.418Z",
-    "duration": 387
+    "start": "2024-03-20T06:57:22.908Z",
+    "end": "2024-03-20T06:57:23.288Z",
+    "duration": 380
   },
   "tests": [
     {
@@ -76,7 +76,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js shortGreeting ends with an exclamation point",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -150,7 +150,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js shortGreeting ends with an exclamation point",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
